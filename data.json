@@ -1,5 +1,1 @@
-{
-  "name": "Alice",
-  "age": 25,
-  "course": "AI Bootcamp"
-}
+{'name': 'Alice', 'age': 25, 'course': 'AI Bootcamp'}
